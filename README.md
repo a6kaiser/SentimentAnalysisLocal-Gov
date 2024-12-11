@@ -159,7 +159,7 @@ A two-day coding challenge to track people and their preferences using sentiment
 - my name is
 - ordinance
 - resolution
-[... other keywords ...]
+- to the next
 
 ## 🔄 Pipeline Flow
 1. Receive meetings data
